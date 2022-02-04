@@ -2,3 +2,6 @@ this is file1
 
 dosomething():
     something
+    but if something is not something do something else
+
+function2():
