@@ -2,3 +2,4 @@ this is a program i made
 
 i made some more on the program, with file1 implement
 file1.dosomething()
+colab edited the program to use file1.function2
