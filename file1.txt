@@ -1,3 +1,6 @@
 this is file1 with function
 
 function1():
+    if something is something:
+          do something
+    return something
